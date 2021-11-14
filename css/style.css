@@ -714,6 +714,9 @@ hr {
 	margin: auto;
 	color: white;
 	padding: 10%;
+	border-radius: 10px;
+	font-size: 1.1rem;
+	line-height: -100px;
 }
 
 
